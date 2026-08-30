@@ -1,1 +1,1 @@
-# MySQL-Assignment-1-DDL-Commands-and-Constraints and Doumentation
+# MySQL-Assignment-1-DDL-Commands-and-Constraints and Documentation
